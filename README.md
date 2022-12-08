@@ -1,4 +1,4 @@
-### Hi there 👋
+### Student At Lovely Professional University
 
 <!--
 **pranav12205684/pranav12205684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
