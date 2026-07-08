@@ -7,7 +7,7 @@ Python Engineer working on UAV software, computer vision, and explainable AI. Cu
 👁️ Computer vision: OpenCV, MediaPipe
 🧠 ML/AI: scikit-learn, XGBoost, SHAP (explainable AI), PyBullet
 🌱 Currently contributing to open-source drone/CV tooling
-📫 Reach me: pranavnilopant@gmail.com | LinkedIn
+📫 Reach me: pranavnilopant@gmail.com 
 
 
 Featured Projects
